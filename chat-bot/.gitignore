@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Segredos e configurações locais
+chave.py
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml

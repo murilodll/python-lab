@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Configurações locais
+.env
+.env.*
+!.env.example

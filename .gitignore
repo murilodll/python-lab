@@ -1,0 +1,18 @@
+# .gitignore para projeto Python
+# Ignorar arquivos compilados Python  
+*.pyc
+*.pyo
+# Ignorar diretórios de cache
+__pycache__/
+
+# Ignorar arquivos de configuração do ambiente virtual
+venv/
+# Ignorar arquivos de configuração do editor
+.idea/
+.vscode/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de chave de API
+chave.py
